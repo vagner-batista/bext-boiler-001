@@ -1,0 +1,33 @@
+{
+  "name": "next-boiler-001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vagner-batista/next-boiler-001.git"
+  },
+  "author": "Vagner Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vagner-batista/next-boiler-001/issues"
+  },
+  "homepage": "https://github.com/vagner-batista/next-boiler-001#readme",
+  "dependencies": {
+    "@emotion/cache": "^11.7.1",
+    "@emotion/react": "^11.7.1",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.0.0-rc.1",
+    "@mui/material": "^5.0.0-rc.1",
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.22.5",
+    "react-input-mask": "^2.0.4"
+  }
+}
